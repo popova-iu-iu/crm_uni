@@ -38,5 +38,3 @@ class StudentGroup:
     # Получить кол-во студентов для генерации кол-ва билетов на экзамен
     def __len__(self):
         return len(self.students)
-
-

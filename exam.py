@@ -7,6 +7,7 @@ from ticket_generator import TicketGenerator
 class NoTicketsError(Exception):
     pass
 
+
 # Исключение
 class NotStartedError(Exception):
     pass
